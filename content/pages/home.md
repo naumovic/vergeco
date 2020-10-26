@@ -35,4 +35,10 @@ We find ways to fine tune business performance by optimising most crucial elemen
 
 \->[Get in touch](https://vergeco.netlify.app/contact/)
 
-We have a team of experts available who address specific problems to optimise your business. Sometimes this may involve implementation and management of Google Ads campaigns. In other cases it's about optimising keyword strategy to get more organic traffic through SEO. But often, it comes down to sitting down and asking the right set of questions to identify most significant pain points for business to focus on.
+### More about the team
+
+We have a team of experts available who address specific problems to optimise your business.
+
+Sometimes this may involve implementation and management of Google Ads campaigns. In other cases it's about optimising keyword strategy to get more organic traffic through SEO. But often, it comes down to sitting down and asking the right set of questions to identify most significant pain points for business to focus on.
+
+\->[More about Mihajlo](https://www.linkedin.com/in/naumovic/)
