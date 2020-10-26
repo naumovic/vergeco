@@ -3,28 +3,36 @@ template: HomePage
 slug: ""
 title: vergeCo
 featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
-subtitle: " Welcome to the new vergeCo website."
+subtitle: Helping Your Business Grow.
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: vergeCo is a Digital marketing and product specialist consulting
+    business owners accross Australia.
+  title: Growth & Digital Product Specialist
+  noindex: false
 ---
+# Growth & Digital Product Specialist
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+I'm Mihajlo. I'm a consultant who helps companies grow by offering my services and leveraging other freelancers and experts.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+We work with your company hands-on, focusing on finding ways to deliver better results from your marketing and sales funnel.
 
-# Features
+> Do you need more customers?
+>
+> Would you like to know and understand where those customers are coming from?
+>
+> Do you want to convert those customers into more revenue?
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+We find ways to fine tune business performance by optimising most crucial elements which get more traction.
 
-## Get started
+# Our focus
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+* Having right people on board
+* Your brands' digital presence
+* Syncing sales process with digital presence
+* Operational structure which supports growth
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+## Get started now!
+
+\->[Get in touch](https://vergeco.netlify.app/contact/)
+
+We have a team of experts available who address specific problems to optimise your business. Sometimes this may involve implementation and management of Google Ads campaigns. In other cases it's about optimising keyword strategy to get more organic traffic through SEO. But often, it comes down to sitting down and asking the right set of questions to identify most significant pain points for business to focus on.
