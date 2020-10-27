@@ -12,21 +12,17 @@ meta:
 ---
 # Growth & Digital Product Specialist
 
-I'm Mihajlo. I'm a consultant who helps companies grow by offering my services and leveraging other freelancers and experts.
+I'm Mihajlo. I'm a consultant. I help companies grow by offering my services and leveraging other freelancers and experts.
 
-We work with your company hands-on, focusing on finding ways to deliver better results from your marketing and sales funnel.
+> ### Do you need more customers? Would you like to be able to understand where those customers are coming from? Do you want to convert your customers into more revenue for your business?
 
-> Do you need more customers?
->
-> Would you like to know and understand where those customers are coming from?
->
-> Do you want to convert those customers into more revenue?
+We work with your company hands-on, by finding ways to deliver better results from your marketing and sales funnel.
 
-We find ways to fine tune business performance by optimising most crucial elements which get more traction.
+## Our focus
 
-# Our focus
+We look to fine tune performance by optimising most crucial elements within your business which will get more traction:
 
-* Having right people on board
+* Having the right people on your team
 * Your brands' digital presence
 * Syncing sales process with digital presence
 * Operational structure which supports growth
@@ -35,10 +31,10 @@ We find ways to fine tune business performance by optimising most crucial elemen
 
 \->[Get in touch](https://vergeco.netlify.app/contact/)
 
-### More about the team
+## More about the team
 
-We have a team of experts available who address specific problems to optimise your business.
+I work with a team of experts who are able to pinpoint specific issues.
 
-Sometimes this may involve implementation and management of Google Ads campaigns. In other cases it's about optimising keyword strategy to get more organic traffic through SEO. But often, it comes down to sitting down and asking the right set of questions to identify most significant pain points for business to focus on.
+Sometimes solving a problem may involve implementation and management of Google Ads campaigns. In other cases it's about optimising keyword strategy to get more organic traffic through SEO. What it comes down to is sitting down and asking the right set of questions to identify most significant pain points for business to focus on.
 
 \->[More about Mihajlo](https://www.linkedin.com/in/naumovic/)
