@@ -29,7 +29,7 @@ We look to fine tune performance by optimising most crucial elements within your
 
 ## Get started now!
 
-\->[Get in touch](https://vergeco.netlify.app/contact/)
+\-> [Get in touch](https://vergeco.netlify.app/contact/)
 
 ## More about the team
 
@@ -37,4 +37,4 @@ I work with a team of experts who are able to pinpoint specific issues.
 
 Sometimes solving a problem may involve implementation and management of Google Ads campaigns. In other cases it's about optimising keyword strategy to get more organic traffic through SEO. What it comes down to is sitting down and asking the right set of questions to identify most significant pain points for business to focus on.
 
-\->[More about Mihajlo](https://www.linkedin.com/in/naumovic/)
+\-> [More about Mihajlo](https://www.linkedin.com/in/naumovic/)
