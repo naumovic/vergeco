@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: vergeCo
-featuredImage: https://ucarecdn.com/55e538e6-8c44-42b8-8610-0fedb3ac12d2/
+featuredImage: https://ucarecdn.com/14b3d8e7-ea04-4cbc-9a70-9d2a40d0883d/
 subtitle: Helping Your Business Grow.
 meta:
   description: vergeCo is a Digital marketing and product specialist consulting
