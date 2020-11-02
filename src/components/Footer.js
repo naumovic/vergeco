@@ -3,10 +3,10 @@ import './Footer.css'
 
 export default () => (
   <div>
-    <h2 className="taCenter">
-      Follow us{' '}
+    <h3 className="taCenter">
+      Follow me{' '}
       <a href="https://twitter.com/naumovic">@naumovic</a>
-    </h2>
+    </h3>
     <br />
     <footer className="footer">
       <div className="container taCenter">
