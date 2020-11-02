@@ -3,38 +3,27 @@ template: HomePage
 slug: ""
 title: vergeCo
 featuredImage: https://ucarecdn.com/14b3d8e7-ea04-4cbc-9a70-9d2a40d0883d/
-subtitle: Helping Your Business Grow.
+subtitle: Growth & Digital Product Specialist.
 meta:
   description: vergeCo is a Digital marketing and product specialist consulting
     business owners accross Australia.
   title: Growth & Digital Product Specialist
   noindex: false
 ---
-# Growth & Digital Product Specialist
+Hey👋
 
-I'm Mihajlo. I'm a consultant. I help companies grow by offering my services and leveraging other freelancers and experts.
+My name is Mihajlo. I'm a skilled digital analytics and product specialist. I worked with some amazing teams at Sunsuper, REIQ and Vroom to optimise the experience and increase performance.
 
-> ### Do you need more customers? Would you like to be able to understand where those customers are coming from? Do you want to convert your customers into more revenue for your business?
+> ### What is vergeCo?
 
-We work with your company hands-on, by finding ways to deliver better results from your marketing and sales funnel.
+This is my personal site where I can experiment with technology, analytics and content. It's also a place where I write notes and articles about things that interest me. You'll find posts about scaling businesses, product management, digital analytics and growth strategies.
 
-## Our focus
+## Work with me
 
-We look to fine tune performance by optimising most crucial elements within your business which will get more traction:
+I like using a range of tools and frameworks, from A/B testing and SEO tools to more abstract things like Design Thinking and Jobs To be Done principles.
 
-* Having the right people on your team
-* Your brands' digital presence
-* Syncing sales process with digital presence
-* Operational structure which supports growth
+If you'd like to get in touch with me you can send me an [email](mailto:mihajlo@hey.com), follow me on [twitter](https://twitter.com/naumovic) or check me out on [LinkedIn](https://www.linkedin.com/in/naumovic/).
 
-## Get started now!
+> ### What is the technology behind this site?
 
-\-> [Get in touch](https://vergeco.netlify.app/contact/)
-
-## More about the team
-
-I work with a team of experts who are able to pinpoint specific issues.
-
-Sometimes solving a problem may involve implementation and management of Google Ads campaigns. In other cases it's about optimising keyword strategy to get more organic traffic through SEO. What it comes down to is sitting down and asking the right set of questions to identify most significant pain points for business to focus on.
-
-\-> [More about Mihajlo](https://www.linkedin.com/in/naumovic/)
+The technology powering this site is a mix of templates using React frameworks, Gatsby and Netlify CMS. It's essentially a web app built to run fast and still utilise templates to make it easier to update content.
