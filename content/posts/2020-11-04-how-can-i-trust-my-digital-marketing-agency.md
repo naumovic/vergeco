@@ -6,6 +6,8 @@ date: 2019-11-10
 featuredImage: https://ucarecdn.com/e9cd5ac2-a264-4e30-87a9-e2b8913e4201/
 excerpt: How to trust your digital agency. Quick tips I picked up from working
   in agencies and with them.
+categories:
+  - category: Updates
 meta:
   title: vergeCo - Advice how and when to work with digital agencies.
   description: How to trust your digital agency. Quick tips I picked up from
