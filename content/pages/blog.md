@@ -2,7 +2,7 @@
 template: BlogIndex
 slug: blog
 title: Articles
-featuredImage: https://ucarecdn.com/0fdf0e28-2532-4397-8801-d43bdde4a593/
+featuredImage: https://ucarecdn.com/1de2e008-5fda-4169-80d4-8c2614c14e0d/
 subtitle: Posts by vergeCo
 meta:
   description: This is a meta description.
