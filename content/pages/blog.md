@@ -1,9 +1,9 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: Articles
+featuredImage: https://ucarecdn.com/0fdf0e28-2532-4397-8801-d43bdde4a593/
+subtitle: Posts by vergeCo
 meta:
   description: This is a meta description.
   title: Blog Page
