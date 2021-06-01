@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ""
-title: vergeCo
+title: "    vergeCo   "
 featuredImage: https://ucarecdn.com/60f8e6b9-7c2d-4570-a326-bf11489f0c4e/
-subtitle: Digital Analytics & Product
+subtitle: \> Digital Analytics & Product
 meta:
   description: vergeCo is a Digital marketing and product specialist consulting
     business owners accross Australia.
