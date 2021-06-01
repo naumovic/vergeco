@@ -12,7 +12,7 @@ meta:
 ---
 Hey👋
 
-My name is Mihajlo. I'm a skilled digital analytics and product specialist. I worked with some amazing teams at Sunsuper, REIQ and Vroom to optimise the experience and increase performance.
+My name is Mihajlo. I'm a skilled digital analytics and product specialist. I worked with some great teams at Sunsuper, REIQ and Vroom to optimise the experience and increase website conversion.
 
 > ### What is vergeCo?
 
