@@ -20,7 +20,7 @@ This is my personal site where I can experiment with technology, analytics and c
 
 ## Work with me
 
-I like using a range of tools and frameworks, from A/B testing and SEO tools to more abstract things like Design Thinking and Jobs To be Done principles.
+I like using a range of tools and frameworks, from A/B testing and SEO tools to more abstract things like [Design Thinking](https://www.nngroup.com/articles/design-thinking/) and[ Jobs To be Done](https://www.christenseninstitute.org/jobs-to-be-done/) principles.
 
 If you'd like to get in touch with me you can send me an [email](mailto:mihajlo@hey.com), follow me on [twitter](https://twitter.com/naumovic) or check me out on [LinkedIn](https://www.linkedin.com/in/naumovic/).
 
